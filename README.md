@@ -29,6 +29,8 @@ Customizable JS syntax highlighting for Sublime Text.
  For sublime text sidebar, Files and folders.
  - SublimeLinter  
  Code linting f/w.
-  - SublimeLinter-pyflakes  
+    - SublimeLinter-pyflakes  
+ - AutoFileName  
+ help with importing static files toa project.
  - Theme - Flatland  
  - Theme - SoDaReloaded  
