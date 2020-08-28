@@ -1,5 +1,6 @@
 # mysublime
-https://packagecontrol.io/
+to make sublime go super-saiyan  
+package control: https://packagecontrol.io/
 ## Must to have sublime plugin
 - 3024 Color Scheme  
 3024 theme for sublime text
