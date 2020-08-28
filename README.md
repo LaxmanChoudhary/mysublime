@@ -7,6 +7,9 @@ package control: https://packagecontrol.io/
 - A File icon  
 Sublime text file-specific Icons for improved visual grepping
 - Anaconda  
+- SublimeCodeIntel
+for autocompletions,
+  - CodeIntel (via python `pip install -U CodeIntel`)
 - Babel  
 Syntax definitions for ES6 JavaScript and React JSX extensions.
 - Djaneiro  
@@ -22,15 +25,16 @@ Customizable JS syntax highlighting for Sublime Text.
 - JsPrettier  
   - prettier(npm install)  
  For prettifying Js code. Requires Node js, Npm or yarn, prettier
- - Markdown Preview  
- - requirementstxt  
+- Markdown Preview  
+- requirementstxt  
  For python
- - SideBarEnhancement  
+- SideBarEnhancement  
  For sublime text sidebar, Files and folders.
- - SublimeLinter  
+- SublimeLinter  
  Code linting f/w.
-    - SublimeLinter-pyflakes  
- - AutoFileName  
+  - SublimeLinter-pyflakes  
+- AutoFileName  
  help with importing static files toa project.
- - Theme - Flatland  
- - Theme - SoDaReloaded  
+- Bootstrap 4x AutoComplete  
+- Theme - Flatland  
+- Theme - SoDaReloaded  
