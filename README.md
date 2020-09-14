@@ -2,39 +2,39 @@
 to make sublime go super-saiyan  
 package control: https://packagecontrol.io/
 ## Must to have sublime plugin
-- 3024 Color Scheme  
+- **3024 Color Scheme**  
 3024 theme for sublime text
-- A File icon  
+- **A File icon**  
 Sublime text file-specific Icons for improved visual grepping
-- Anaconda  
-- SublimeCodeIntel
+- **Anaconda**  
+- **SublimeCodeIntel**
 for autocompletions,
-  - CodeIntel (via python `pip install -U CodeIntel`)
-- Babel  
+  - **CodeIntel** (via python `pip install -U CodeIntel`)
+- **Babel**  
 Syntax definitions for ES6 JavaScript and React JSX extensions.
-- Djaneiro  
+- **Djaneiro**  
 Django support for Sublime 2/3
-- DocBlockr  
+- **DocBlockr**  
 Simplifies writing DocBlock comments in Js, PHP, ..
-- Emmet  
+- **Emmet**  
 Toolkit for web
-- GitGutter  
+- **GitGutter**  
 To see git diff in gutter.
-- JSCustom  
+- **JSCustom**  
 Customizable JS syntax highlighting for Sublime Text.
-- JsPrettier  
-  - prettier(npm install)  
+- **JsPrettier**  
+  - ***prettier***(npm install)  
  For prettifying Js code. Requires Node js, Npm or yarn, prettier
-- Markdown Preview  
-- requirementstxt  
+- **Markdown Preview**  
+- **requirementstxt**  
  For python
-- SideBarEnhancement  
+- **SideBarEnhancement**  
  For sublime text sidebar, Files and folders.
-- SublimeLinter  
- Code linting f/w.
-  - SublimeLinter-pyflakes  
-- AutoFileName  
+- **SublimeLinter**  
+ Code linting framework.
+  - **SublimeLinter-pyflakes**  
+- **AutoFileName**  
  help with importing static files toa project.
-- Bootstrap 4x AutoComplete  
-- Theme - Flatland  
-- Theme - SoDaReloaded  
+- **Bootstrap 4x AutoComplete**  
+- **Theme** - Flatland  
+- **Theme** - SoDaReloaded  
