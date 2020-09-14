@@ -1,5 +1,6 @@
 # mysublime
-For productivity with sublime! Awesome
+to make sublime go super-saiyan  
+package control: https://packagecontrol.io/
 
 Check out Index:
 ## Index
