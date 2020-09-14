@@ -36,5 +36,3 @@ Customizable JS syntax highlighting for Sublime Text.
 - **Bootstrap 4x AutoComplete**  
 - **Theme** - Flatland  
 - **Theme** - SoDaReloaded  
-
-> Above contains brief information, for complete steps go to packagecontrol website.
