@@ -2,14 +2,15 @@
 to make sublime go super-saiyan  
 package control: https://packagecontrol.io/
 
-## Must to have sublime plugin
+## Must have sublime plugins
+###  For full-stack web developers
 - **3024 Color Scheme**  
 3024 theme for sublime text
 - **A File icon**  
 Sublime text file-specific Icons for improved visual grepping
 - **Anaconda**  
-- **SublimeCodeIntel**
-for autocompletions,
+- **SublimeCodeIntel**  
+for autocompletions
   - **CodeIntel** (via python `pip install -U CodeIntel`)
 - **Babel**  
 Syntax definitions for ES6 JavaScript and React JSX extensions.
