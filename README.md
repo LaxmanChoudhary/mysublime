@@ -1,6 +1,7 @@
 # mysublime
 to make sublime go super-saiyan  
 package control: https://packagecontrol.io/
+
 ## Must to have sublime plugin
 - **3024 Color Scheme**  
 3024 theme for sublime text
@@ -38,3 +39,5 @@ Customizable JS syntax highlighting for Sublime Text.
 - **Bootstrap 4x AutoComplete**  
 - **Theme** - Flatland  
 - **Theme** - SoDaReloaded  
+
+> Above contains brief information, for complete steps go to packagecontrol website.
