@@ -1,7 +1,3 @@
-# mysublime
-to make sublime go super-saiyan  
-package control: https://packagecontrol.io/
-
 ## Must have sublime plugins
 ###  For full-stack web developers
 - **3024 Color Scheme**  
