@@ -3,5 +3,5 @@ For productivity with sublime! Awesome
 
 Check out Index:
 ## Index
-- [Plugins](./plugins.md)
+- [Plugins](./Plugins.md)
 - [Key bindings](./KeyBindings.md)
