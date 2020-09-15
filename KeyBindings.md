@@ -16,5 +16,6 @@ Let's check out some of the useful key bindings in sublime that would accelarate
 ### Wrap selection with tag
 `Alt + shift + W`
 
-### 
+### duplicate line
+`ctrl + shift + d`
 
