@@ -6,7 +6,7 @@ Let's check out some of the useful key bindings in sublime that would accelarate
 `ctrl + d`
 
 ### Comment/Uncomment selection of lines
-`ctrl + /`
+`ctrl + /`<br>
 **Block comment**<br>
 `ctrl + shift + /`
 
