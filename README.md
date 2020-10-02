@@ -1,4 +1,4 @@
-# mysublime
+# sublime-starter-recipe
 to make sublime go super-saiyan  
 
 ## Index
