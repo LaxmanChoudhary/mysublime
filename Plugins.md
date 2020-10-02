@@ -4,49 +4,49 @@ Once installed package control you will have access to all the packages/plugins 
 We still might not want to use these packages as raw and would modify them to our taste. Once all plugins are downloaded we can head to `sublime-settings` sub-repo to edit the configurations.<br>
 To start installing of package, use `ctrl + shift + p` for command pallete and type install package which would give you option like **Package Control: Install package**, clicking on it will bring you the list of all available packages available on package control to be installed.<br>
 
-## Must have sublime plugins
-###  For full-stack web developers
+# Must have sublime packages
+## For full-stack web developers
 
 First thing first, being a python lover I would recommend the first package as,
-- **`Anaconda`**
-Provides python autocompletions, linting, definitions and many more awesome features. The official documentation can be easily found by a google search.
- - **`sublimeCodeIntel`**(optional) (via python `pip install -U CodeIntel`)
- CodeIntel provides autocomplete features same as anaconda, so there's a choice to make between going anaconda or sublimeCodeIntel. As codeIntel needs extra preparations to work, I might consider anaconda as a starter which we could switch if want to.<br>
+- **`Anaconda`**<br>
+Provides python autocompletions, linting, definitions and many more awesome features. The official documentation can be easily found by a google search.<br>
+ - **`sublimeCodeIntel`**(optional) (via python `pip install -U CodeIntel`)<br>
+CodeIntel provides autocomplete features same as anaconda, so there's a choice to make between going anaconda or sublimeCodeIntel. As codeIntel needs extra preparations to work, I might consider anaconda as a starter which we could switch if want to.<br>
+- **`A File icon`**<br>
+It shows little favicons to the files in the sidebar as per their format for better visuals. You would surely love it.<br>
+- **`SideBarEnhancement`**<br>
+Provide with handful options to work with on our files directly from sidebar.
+- **`AutoFileName`**<br>
+Help with path to files in your project, provides autocompletions to locate your file. Try it by tring to type path to a file you want to use in a project.<br>
+- **`AllAutoComplete`**<br>
+Helps in autompletion from various open files.<br>
+- **`Emmet`**<br>
+A very well known toolkit package among web developers.<br>
+- **`Bootstrap 4x AutoComplete`**<br>
+For bootstrap lover, provides autocompletions to bootstrap classes.<br>
+- **`JsPrettier`**<br>
+For formating of your code. It is a plugin for using prettier library from npm.<br>
+**Requires installing of prettier library**<br>
+`npm install prettier`<br>
+`yarn add prettier`<br>
+- **`GitGutter`**<br>
+To see git diff in gutter. A helpful tool when using Git version control.<br>
+- **`Markdown Preview`**<br>
+To preview markdown(.md) files in browser.<br>
 
-- **3024 Color Scheme**  
-3024 theme for sublime text
-- **A File icon**  
-Sublime text file-specific Icons for improved visual grepping  
-- **SublimeCodeIntel**  
-for autocompletions
- 
-- **Babel**  
-Syntax definitions for ES6 JavaScript and React JSX extensions.
-- **Djaneiro**  
+### `stack dependent`
+These package entirely depend on your development tools you use, if you are a MERN, Python developer or so.<br>
+Currently contains for Django and ReactJs, as these are the tools I'm using.<br>
+
+- **`Djaneiro`**<br>
 Django support for Sublime 2/3
-- **DocBlockr**  
-Simplifies writing DocBlock comments in Js, PHP, ..
-- **Emmet**  
-Toolkit for web
-- **GitGutter**  
-To see git diff in gutter.
-- **JSCustom**  
-Customizable JS syntax highlighting for Sublime Text.
-- **JsPrettier**  
-  - ***prettier***(npm install)  
- For prettifying Js code. Requires Node js, Npm or yarn, prettier
-- **Markdown Preview**  
-- **requirementstxt**  
- For python
-- **SideBarEnhancement**  
- For sublime text sidebar, Files and folders.
-- **SublimeLinter**  
- Code linting framework.
-  - **SublimeLinter-pyflakes**  
-- **AutoFileName**  
- help with importing static files toa project.
-- **Bootstrap 4x AutoComplete**  
-- **Theme** - Flatland  
-- **Theme** - SoDaReloaded  
+- **`Babel`**<br>
+Syntax definitions for ES6 JavaScript and React JSX extensions.
 
-> Above contains brief information, for complete steps go to [packagecontrol](https://packagecontrol.io/) website.
+For themes and color ui, you cann go to package control website to check out available themes and colors before installing.<br>
+Below I have mentioned some of my favourites.<br>
+- **Theme** - Flatland<br>
+- **Theme** - SoDaReloaded<br>
+
+## `references`
+Above contains brief information, for complete steps go to [packagecontrol](https://packagecontrol.io/) website.
