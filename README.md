@@ -6,4 +6,4 @@ Check out Index:
 ## Index
 - [Plugins](./Plugins.md)
 - [Key bindings](./KeyBindings.md)
-- [settings](./sublime-settings/settings.md)
+- [sublime-settings](./sublime-settings/settings.md)
