@@ -13,3 +13,4 @@
   "word_wrap": true,
 }
 ```
+## `Anaconda.sublime-settings - User`
