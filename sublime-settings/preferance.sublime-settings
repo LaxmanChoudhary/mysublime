@@ -4,7 +4,7 @@
 		"Vintage"
 	],
 	"auto_complete": false,
-  "sublimelinter": false,
-  "tab_size": 2,
-  "word_wrap": true,
+	"sublimelinter": false,
+	"tab_size": 2,
+	"word_wrap": true,
 }
