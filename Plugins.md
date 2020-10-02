@@ -26,7 +26,7 @@ A very well known toolkit package among web developers.<br>
 For bootstrap lover, provides autocompletions to bootstrap classes.<br>
 - **`JsPrettier`**<br>
 For formating of your code. It is a plugin for using prettier library from npm.<br>
-**Requires installing of prettier library**<br>
+*Requires installing of prettier library*<br>
 `npm install prettier`<br>
 `yarn add prettier`<br>
 - **`GitGutter`**<br>
@@ -48,5 +48,5 @@ Below I have mentioned some of my favourites.<br>
 - **Theme** - Flatland<br>
 - **Theme** - SoDaReloaded<br>
 
-## `references`
+## `#references`
 Above contains brief information, for complete steps go to [packagecontrol](https://packagecontrol.io/) website.
