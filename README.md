@@ -8,7 +8,7 @@ Definitely follow the guide if you are new to it or even if not, but want to con
 ## Index
 - [plugins](./Plugins.md) - for installation of required plugins to start with
 - [default key-bindings](./KeyBindings.md) - for increasing your productivity
-- [sublime-settings](./sublime-settings/settings.md) - starter setting for global and plugins
+- [sublime-settings](./settings.md) - starter setting for global and plugins
 
 ## references
 package control: https://packagecontrol.io/
