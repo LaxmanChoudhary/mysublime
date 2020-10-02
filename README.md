@@ -1,7 +1,6 @@
 # mysublime
 to make sublime go super-saiyan  
 
-Check out Index:
 ## Index
 - [plugins](./Plugins.md)
 - [default key-bindings](./KeyBindings.md)
