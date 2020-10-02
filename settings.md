@@ -10,6 +10,6 @@
 	"auto_complete": false,
   "sublimelinter": false,
   "tab_size": 2,
-  "word_wrap": true
+  "word_wrap": true,
 }
 ```
