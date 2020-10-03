@@ -24,7 +24,7 @@ Helps in autompletion from various open files.<br>
 - **`Emmet`**<br>
 A very well known toolkit package among web developers.<br>
 - **`Bootstrap 4x AutoComplete`**<br>
-For bootstrap lover, provides autocompletions to bootstrap classes.<br>
+For bootstrap lovers, provides autocompletions to bootstrap classes.<br>
 - **`JsPrettier`**<br>
 For formating of your code. It is a plugin for using prettier library from npm.<br>
 ##### Requires installing of prettier library
