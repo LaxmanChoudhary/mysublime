@@ -36,10 +36,14 @@ To preview markdown(.md) files in browser.<br>
 
 ### `stack dependent`
 These package entirely depend on your development tools you use, if you are a MERN, Python developer or so.<br>
-Currently contains for Django and ReactJs, as these are the tools I'm using.<br>
+
+#### `Django`<br>
 
 - **`Djaneiro`**<br>
 Django support for Sublime 2/3
+
+#### `ReactJs`<br>
+
 - **`Babel`**<br>
 Syntax definitions for ES6 JavaScript and React JSX extensions.
 
