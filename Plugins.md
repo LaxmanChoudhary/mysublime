@@ -10,8 +10,9 @@ To start installing of package, use `ctrl + shift + p` for command pallete and t
 First thing first, being a python lover I would recommend the first package as,
 - **`Anaconda`**<br>
 Provides python autocompletions, linting, definitions and many more awesome features. The official documentation can be easily found by a google search.<br>
- - **`sublimeCodeIntel`**(optional) (via python `pip install -U CodeIntel`)<br>
+ - **`sublimeCodeIntel`**(optional)<br>
 CodeIntel provides autocomplete features same as anaconda, so there's a choice to make between going anaconda or sublimeCodeIntel. As codeIntel needs extra preparations to work, I might consider anaconda as a starter which we could switch if want to.<br>
+Needs binary installation as well (via python `pip install -U CodeIntel`).
 - **`A File icon`**<br>
 It shows little favicons to the files in the sidebar as per their format for better visuals. You would surely love it.<br>
 - **`SideBarEnhancement`**<br>
@@ -47,7 +48,7 @@ Django support for Sublime 2/3
 - **`Babel`**<br>
 Syntax definitions for ES6 JavaScript and React JSX extensions.
 
-For themes and color ui, you cann go to package control website to check out available themes and colors before installing.<br>
+For themes and color ui, you can go to package control website to check out available themes and colors before installing.<br>
 Below I have mentioned some of my favourites.<br>
 - **Theme** - Flatland<br>
 - **Theme** - SoDaReloaded<br>
