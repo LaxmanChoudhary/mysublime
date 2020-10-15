@@ -1,8 +1,11 @@
 # `Base`
-To start with, first we have to install **package control** using `ctrl + shift + p`, typing package control might give us the optin to *install package control*<br>
+To start with, first we have to install **package control** using `ctrl + shift + p`, typing package control might give us the optin to *install package control*.<br>
+
 Once installed package control you will have access to all the packages/plugins to enhance our sublime-text 3.<br>
 We still might not want to use these packages as raw and would modify them to our taste. Once all plugins are downloaded we can head to `sublime-settings` sub-repo to edit the configurations.<br>
+
 To start installing of package, use `ctrl + shift + p` for command pallete and type install package which would give you option like **Package Control: Install package**, clicking on it will bring you the list of all available packages available on package control to be installed.<br>
+
 
 # Must have sublime packages
 ## heaven for developers
